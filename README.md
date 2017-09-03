@@ -1,1 +1,1 @@
-proprietary file for redmi4A.
+android vendor rolex
